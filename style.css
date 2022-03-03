@@ -1,0 +1,16 @@
+table,th,td{
+	border: 3.5px solid gray;
+	border-collapse: collapse;
+}
+thead{
+	background-color: Black;
+	color: yellow;
+}
+table{
+	width: 500px;
+	height: 350px;
+	margin-left: 300px;
+	}
+	td{
+		color: black;
+	}
